@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Signature-Forgery-Detection
 
 ## 1. Introduction
@@ -33,7 +32,3 @@ In this implementation we were able to **95.4%** accuracy on our test dataset
 
 ![Animated GIF-downsized](https://github.com/Balusu-Revanth/Signature-Forgery-Detection/assets/128140052/28f8e7ed-9454-4eb6-a35e-5dfbb8087e03)
 
-=======
-# Signature-forgery-detection
-Signature Forgery Detection Using CNN
->>>>>>> origin/main
